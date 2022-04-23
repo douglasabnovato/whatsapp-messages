@@ -36,6 +36,7 @@
 - prompt é do javascript e exibirá mensagem no navegador e também retornará o conteúdo que desejamos.
 - O Whatsapp disponibiliza uma api que permite manipular algumas ações com o aplicativo. Nós utilizaremos a url: `https://api.whatsapp.com/send?phone=55${numberDestination}&text=${messageText}`.
 - Para encerrar nossa aplicação, vamos abrir uma aba na url do whatsapp com as informações que desejamos: o número destino e a mensagem que clicamos sobre com o trecho `window.open(url)` 
+- Hospedado aplicação no servidor Github Page
 
 ### 😯 Finalizado 
 
