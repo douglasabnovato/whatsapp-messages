@@ -15,7 +15,7 @@
   <img alt="disparador automático de mensagem para o whatsapp" title="#DrivenChallengeWhatsapp" src="./.github/template.jpg" width="400px">
 </p>
 
-### 🛠 construindo 
+### 🛠 Construindo 
 
 - Utilizado a ferramento online para desenvolver Codesandbox junto com o inspecionar do Google Chrome.
 - Acredito que o css se demonstra ser o principal fator para essa aplicação:
@@ -40,6 +40,11 @@
 ## 😯 Finalizado 
 
 - Terminamos o desafio da driven. Muito massa. Vamos para o próximo.
+
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="disparador automático de mensagem para o whatsapp" title="#DrivenChallengeWhatsapp" src="./.github/desktop.jpg" width="400px">
+  <img alt="disparador automático de mensagem para o whatsapp" title="#DrivenChallengeWhatsapp" src="./.github/mobile.jpg" width="400px">
+</p>
 
 ---  
 
