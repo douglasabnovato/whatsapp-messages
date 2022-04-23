@@ -12,6 +12,7 @@
 - Utilizar o template do layout a seguir para construir.
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="disparador automático de mensagem para o whatsapp" title="#DrivenChallengeWhatsapp" src="./.github/challeng-1.gif" width="400px">
   <img alt="disparador automático de mensagem para o whatsapp" title="#DrivenChallengeWhatsapp" src="./.github/template.jpg" width="400px">
 </p>
 
