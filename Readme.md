@@ -10,10 +10,12 @@
 
 - Desenvolver um Disparador Automático de Frases no Whatsapp com html, css e javascript.
 - Utilizar o template do layout a seguir para construir.
-
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="disparador automático de mensagem para o whatsapp" title="#DrivenChallengeWhatsapp" src="./.github/template.jpg" width="400px">
+</p>
+- O fluxo da aplicação é a seguinte:
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   <img alt="disparador automático de mensagem para o whatsapp" title="#DrivenChallengeWhatsapp" src="./.github/challeng-1.gif" width="600px">
-  <img alt="disparador automático de mensagem para o whatsapp" title="#DrivenChallengeWhatsapp" src="./.github/template.jpg" width="400px">
 </p>
 
 ### 🛠 Construindo 
