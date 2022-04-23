@@ -37,7 +37,7 @@
 - O Whatsapp disponibiliza uma api que permite manipular algumas ações com o aplicativo. Nós utilizaremos a url: `https://api.whatsapp.com/send?phone=55${numberDestination}&text=${messageText}`.
 - Para encerrar nossa aplicação, vamos abrir uma aba na url do whatsapp com as informações que desejamos: o número destino e a mensagem que clicamos sobre com o trecho `window.open(url)` 
 
-## 😯 Finalizado 
+### 😯 Finalizado 
 
 - Terminamos o desafio da driven. Muito massa. Vamos para o próximo.
 
@@ -45,6 +45,10 @@
   <img alt="disparador automático de mensagem para o whatsapp" title="#DrivenChallengeWhatsapp" src="./.github/desktop.jpg" width="400px">
   <img alt="disparador automático de mensagem para o whatsapp" title="#DrivenChallengeWhatsapp" src="./.github/mobile.jpg" height="400px">
 </p>
+
+### 🧭 Adicionado
+
+- Validação da chamada da URL: preenchido número.
 
 ---  
 
