@@ -48,7 +48,7 @@
 
 ### 🧭 Adicionado
 
-- Validação da chamada da URL: preenchido número.
+- Validação da chamada da URL: preenchimento de número.
 
 ---  
 
