@@ -43,7 +43,7 @@
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   <img alt="disparador automático de mensagem para o whatsapp" title="#DrivenChallengeWhatsapp" src="./.github/desktop.jpg" width="400px">
-  <img alt="disparador automático de mensagem para o whatsapp" title="#DrivenChallengeWhatsapp" src="./.github/mobile.jpg" width="400px">
+  <img alt="disparador automático de mensagem para o whatsapp" title="#DrivenChallengeWhatsapp" src="./.github/mobile.jpg" height="400px">
 </p>
 
 ---  
