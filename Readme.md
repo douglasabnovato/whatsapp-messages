@@ -54,6 +54,10 @@
 
 - Validação da chamada da URL: preenchimento de número.
 
+### 💻 Próximo passo
+
+- estudar a API do Whatsapp e criar novas funcionalidades dinâmicas a partir das informações públicas da ferramenta
+
 ---  
 
 Feito com ❤️ por Douglas A B Novato 👋🏽 [Entre em contato!](https://www.linkedin.com/in/douglasabnovato/)
