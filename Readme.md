@@ -17,6 +17,7 @@
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   <img alt="disparador automático de mensagem para o whatsapp" title="#DrivenChallengeWhatsapp" src="./.github/challeng-1.gif" width="600px">
 </p>
+- Inspiração: Desafio da Driven em construir aplicações com os fundamentos de js, html e js em um espaço curto de tempo.
 
 ### 🛠 Construindo 
 
