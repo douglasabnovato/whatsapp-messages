@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center"> 
-	🚧 Driven Challenge Whatsapp 🚀
+	🚧 Whatsapp Messages 🚀
 </h4> 
 
 ### 💻 Sobre o projeto
@@ -56,7 +56,8 @@
 
 ### 💻 Próximo passo
 
-- estudar a API do Whatsapp e criar novas funcionalidades dinâmicas a partir das informações públicas da ferramenta
+- estudar a API do Whatsapp
+- criar novas funcionalidades dinâmicas a partir das informações públicas da API
 
 ---  
 
