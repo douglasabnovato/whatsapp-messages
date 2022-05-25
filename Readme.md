@@ -57,8 +57,12 @@
 
 ### 💻 Próximo passo
 
-- estudar a API do Whatsapp
-- criar novas funcionalidades dinâmicas a partir das informações públicas da API
+- criar novas funcionalidades dinâmicas a partir das informações públicas da API do whatsapp
+- responsividade
+- acessibilidade
+- modo dark / light
+- variação de cores
+- crud de ideias
 
 ---  
 
